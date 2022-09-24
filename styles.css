@@ -1,16 +1,33 @@
 body{
     background-color: rgb(50, 44, 44);
+    text-align: center ;
     color: peru;
 }
 .container{
- align-items: center;
+ margin: auto;
+ width: 70%;
+
+}
+.dice{
+   display: inline-block;
 }
 
 h1{
-   font-size: 10rem;
+   font-size: 8rem;
+   font-family: 'Black Ops One', cursive;
+   text-shadow: 2px 2px 8px #FF0000;
+  
 
 }
 
 P{
+   font-family: 'Gloria Hallelujah', cursive;
    align-items: center; 
+   font-size: 2rem;
+}
+
+footer{
+   text-align: center;
+   color: whitesmoke;
+   font-size: 1px;
 }
