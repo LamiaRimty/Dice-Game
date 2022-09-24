@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(50, 44, 44);
+    color: peru;
+}
+.container{
+ align-items: center;
+}
+
+h1{
+   font-size: 10rem;
+
+}
+
+P{
+   align-items: center; 
+}
