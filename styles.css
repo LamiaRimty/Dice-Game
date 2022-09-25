@@ -10,24 +10,31 @@ body{
 }
 .dice{
    display: inline-block;
+   padding: 3%;
 }
 
 h1{
    font-size: 8rem;
    font-family: 'Black Ops One', cursive;
    text-shadow: 2px 2px 8px #FF0000;
-  
+
 
 }
 
 P{
-   font-family: 'Gloria Hallelujah', cursive;
-   align-items: center; 
+   font-family: 'Gloria Hallelujah', cursive; 
    font-size: 2rem;
+   margin-top: 3%;
+}
+
+img{
+   width: 80%;
+
 }
 
 footer{
    text-align: center;
-   color: whitesmoke;
+   color: wheat;
    font-size: 1px;
+   
 }
