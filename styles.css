@@ -14,11 +14,14 @@ body{
 }
 
 h1{
-   font-size: 8rem;
+   font-size: 4rem;
    font-family: 'Black Ops One', cursive;
    text-shadow: 2px 2px 8px #FF0000;
-
-
+}
+@media(min-width:900px) {
+   h1{
+   font-size: 8rem;
+   }
 }
 
 P{
@@ -28,8 +31,14 @@ P{
 }
 
 img{
-   width: 80%;
+   width: 60%;
+ 
+}
 
+@media(min-width:900px){
+   img{
+      width: 80%;
+   }
 }
 
 footer{
